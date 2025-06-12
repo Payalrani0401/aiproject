@@ -1,1 +1,1 @@
-# aiproject
+# aiproject This AI chatbot project is built using the python programmimg language. The chatbot can talk with users just like a human. It understands what the user types and gives smart replies using artificial intelligence that runs easily on the VS code terminal.
